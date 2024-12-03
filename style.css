@@ -1,0 +1,18 @@
+img{
+  width:30%;
+  margin-left:5px;
+  
+  border:1px solid  black;
+}
+h3{
+  font-size:50px;
+  font-weight:300;
+  margin-left:20%;
+
+}
+
+#grid{
+  display:flex;  
+  width:400px;
+  height:300px;
+}
